@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactForm</string>
+
+    <string name="male_or_female">vous êtes un homme ou une femme ?</string>
+
+    <string-array name="sex_array">
+        <item>Homme</item>
+        <item>Femme</item>
+
+    </string-array>
+</resources>
